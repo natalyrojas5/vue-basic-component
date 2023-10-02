@@ -26,6 +26,7 @@ const user = ref({
 .form {
   max-width: 400px;
   margin: auto;
+  width: 100%;
 }
 
 .form h1 {
