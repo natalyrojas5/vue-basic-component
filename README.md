@@ -24,3 +24,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Youtube
+[![Vue - Creación de componente básico](./portada.png)](https://www.youtube.com/watch?v=Y6USNH76d-o)
