@@ -1,6 +1,6 @@
 # Componente básico
 
-Creación de componente básico en Vue
+Creación de componente básico en Vue + Vite
 
 ## Configuración IDE recomendada
 
